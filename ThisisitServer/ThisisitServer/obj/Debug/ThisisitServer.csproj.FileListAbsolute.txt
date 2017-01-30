@@ -1,0 +1,7 @@
+D:\Thisisit\ThisisitServer\ThisisitServer\bin\Debug\ServersManager.exe.config
+D:\Thisisit\ThisisitServer\ThisisitServer\bin\Debug\ServersManager.exe
+D:\Thisisit\ThisisitServer\ThisisitServer\bin\Debug\ServersManager.pdb
+D:\Thisisit\ThisisitServer\ThisisitServer\bin\Debug\MySql.Data.dll
+D:\Thisisit\ThisisitServer\ThisisitServer\obj\Debug\ServersManager.exe
+D:\Thisisit\ThisisitServer\ThisisitServer\obj\Debug\ServersManager.pdb
+D:\Thisisit\ThisisitServer\ThisisitServer\obj\Debug\ThisisitServer.csprojResolveAssemblyReference.cache

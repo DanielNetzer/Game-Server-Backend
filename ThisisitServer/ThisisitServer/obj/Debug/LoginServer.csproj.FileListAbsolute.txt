@@ -1,0 +1,2 @@
+D:\SharpDevelop\LoginServer\LoginServer\bin\Debug\ServersManager.exe.config
+D:\SharpDevelop\LoginServer\LoginServer\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache

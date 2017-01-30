@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 69d8b4dcc3554d1438d516c4e67c6e48
+timeCreated: 1464111639
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: healthbargui_glasseffect1
+    21300002: healthbargui_hpfull
+    21300004: healthbargui_manafull
+    21300006: healthbargui_glasseffect2
+    21300008: healthbargui_expfull
+    21300010: healthbargui_base
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: healthbargui_glasseffect1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 305
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 31.5}
+        - {x: -34, y: 15.5}
+        - {x: -34, y: -20.5}
+        - {x: -23, y: -31.5}
+        - {x: 17, y: -31.5}
+        - {x: 25, y: -29.5}
+        - {x: 34, y: -17.5}
+        - {x: 34, y: 18.5}
+        - {x: 30, y: 31.5}
+    - name: healthbargui_hpfull
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 457
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: healthbargui_manafull
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 257
+        width: 443
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: healthbargui_glasseffect2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 235
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: healthbargui_expfull
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 228
+        width: 359
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: healthbargui_base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 695
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: -73}
+        - {x: -100.5, y: -55}
+        - {x: -102.5, y: -41}
+        - {x: 233.5, y: -40}
+        - {x: 235.5, y: -38}
+        - {x: 242.5, y: -24}
+        - {x: 299.5, y: 8}
+        - {x: 344.5, y: 34}
+        - {x: 347.5, y: 37}
+        - {x: 347.5, y: 42}
+        - {x: 320.5, y: 58}
+        - {x: 249.5, y: 88}
+        - {x: -117.5, y: 89}
+        - {x: -131.5, y: 76}
+        - {x: -153.5, y: 112}
+        - {x: -162.5, y: 112}
+        - {x: -232.5, y: 94}
+        - {x: -281.5, y: 109}
+        - {x: -283.5, y: 104}
+        - {x: -295.5, y: 59}
+        - {x: -334.5, y: 18}
+        - {x: -333.5, y: 16}
+        - {x: -322.5, y: -17}
+        - {x: -347.5, y: -40}
+        - {x: -347.5, y: -47}
+        - {x: -315.5, y: -45}
+        - {x: -267.5, y: -89}
+        - {x: -230.5, y: -94}
+        - {x: -187.5, y: -112}
+        - {x: -159.5, y: -112}
+        - {x: -146.5, y: -103}
+        - {x: -147.5, y: -99}
+        - {x: -151.5, y: -84}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

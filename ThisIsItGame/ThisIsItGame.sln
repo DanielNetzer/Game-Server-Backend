@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6FBCF1FA-76F0-39D0-9B5E-4708CB6DF919}") = "ThisIsItGame", "Assembly-CSharp-firstpass.csproj", "{EE00A629-69EE-2074-BCE3-56A695639C5C}"
+EndProject
+Project("{6FBCF1FA-76F0-39D0-9B5E-4708CB6DF919}") = "ThisIsItGame", "Assembly-CSharp.csproj", "{99DCB81A-03C8-485B-F76C-4BB3493C7333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE00A629-69EE-2074-BCE3-56A695639C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE00A629-69EE-2074-BCE3-56A695639C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE00A629-69EE-2074-BCE3-56A695639C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE00A629-69EE-2074-BCE3-56A695639C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DCB81A-03C8-485B-F76C-4BB3493C7333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DCB81A-03C8-485B-F76C-4BB3493C7333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DCB81A-03C8-485B-F76C-4BB3493C7333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DCB81A-03C8-485B-F76C-4BB3493C7333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
